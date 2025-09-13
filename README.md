@@ -1,2 +1,3 @@
 # blockchain-gov-present
-Site presenting Blockchain implementation into Government services
+Only for Digital Bridge 2025
+Site-presentation showing Blockchain implementation into Government services
